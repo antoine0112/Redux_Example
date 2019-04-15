@@ -1,3 +1,11 @@
+commandes d'installation des ressources:
+$ sudo apt install npm
+$ npm install -g create-react-app
+$ create-react-app MyApp
+$ cd MyApp
+$ npm i --save react-redux redux redux-thunk
+$ mkdir src/actions src/reducers src/store
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
